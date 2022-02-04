@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643981477 source:c:\users\hp\desktop\exeter\task\main.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	<fstream>
+
